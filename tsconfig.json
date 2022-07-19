@@ -6,6 +6,10 @@
       "dom.iterable",
       "esnext"
     ],
+    "max-line-length": [
+      true,
+      100
+    ],
     "allowJs": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
